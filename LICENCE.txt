@@ -2,4 +2,5 @@ Autor:
  Jose Alfredo Zepeda Mercado
 COdigo:
 220779977
+Carrera : Lic. Tecnologias de la Informacion
 
